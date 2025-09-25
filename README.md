@@ -29,4 +29,4 @@ The main components are:
 
 ---
 
-*This project is currently under active development. You can follow the progress on our [GitHub Project Board]([LINK-TO-YOUR-PROJECT-BOARD](https://github.com/orgs/DanLearnings/projects/1/views/1)).*
+*This project is currently under active development. You can follow the progress on our [GitHub Project Board](https://github.com/orgs/DanLearnings/projects/1/views/1).*
