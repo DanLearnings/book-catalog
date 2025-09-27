@@ -1,4 +1,4 @@
-# Book Catalog - A Full-Stack DevOps Project Journey
+# Book Catalog - A Simple Full-Stack DevOps Project Journey
 
 Welcome to the central hub for the Book Catalog project! This repository contains the high-level architectural documentation and serves as the main entrypoint for understanding the entire ecosystem.
 
