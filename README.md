@@ -36,7 +36,7 @@ This project was built iteratively in distinct phases, each with its own challen
 Before writing any code, I focused on creating a solid organizational structure.
 
 -   **What I did:** Established the `DanLearnings` organization, defined the multi-repo structure, created initial documentation, and set up a Kanban board to manage the project.
--   **💡 Key Learning:** The distinction between a **multi-repo** setup (code organization) and a **microservices** architecture (backend design pattern) became clear. A solid foundation makes the development process much smoother.
+-   **💡 Key Learning:** The key takeaway was the power of the **multi-repo** architecture. By separating the backend and frontend into their own repositories, each with its own CI pipeline, I gained the flexibility to develop and deploy each part independently. This reinforced that good code organization is just as important as the application's architecture itself.
 
 ### Phase 2: Building the Backend (Initial API)
 
